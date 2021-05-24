@@ -1,0 +1,19 @@
+{
+  "name": "rails-example",
+  "private": true,
+  "dependencies": {
+    "@babel/preset-react": "^7.9.4",
+    "@rails/webpacker": "5.0.1",
+    "axios": "^0.19.0",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
+    "prop-types": "^15.7.2",
+    "ra-data-json-server": "^3.4.1",
+    "react": "^16.13.1",
+    "react-admin": "^3.4.1",
+    "react-dom": "^16.13.1",
+    "store": "^2.0.12"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.10.3"
+  }
+}
